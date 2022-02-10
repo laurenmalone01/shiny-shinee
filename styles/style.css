@@ -36,5 +36,11 @@ label {
    border:10px solid #E5340D; 
    padding: 10px; 
   background-color: #02C132;
-
   }
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
