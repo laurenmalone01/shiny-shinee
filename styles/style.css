@@ -33,9 +33,9 @@ label {
 #dogeHouse {
    width: 95%; 
    height:300px; 
-   border:10px solid #E5340D; 
-   padding: 10px; 
-  background-color: #02C132;
+   border:10px solid #77847b; 
+/*    padding: 10px;  */
+/*   background-color: #02C132; */
   }
 
 .footer{
@@ -43,4 +43,11 @@ label {
   left: 0;
   bottom: 0;
   width: 100%;
+}
+
+#dogePic{
+  border-radius: 25px;
+  padding: 20px;
+  width: 160px;
+  height: 200px;
 }
